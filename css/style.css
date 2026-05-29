@@ -157,7 +157,14 @@ nav{
 
     box-shadow:
         0 10px 35px rgba(124,58,237,.25);
-}
+
+    /* Geser area foto ke bawah */
+    object-position:center 20%;
+
+    border-radius:50%;
+    border:6px solid var(--primary);
+
+    }
 
 .hero h1{
     font-size:64px;
@@ -482,6 +489,7 @@ footer{
     .profile-img{
         width:150px;
         height:150px;
+
     }
 
     .section-title h2{
