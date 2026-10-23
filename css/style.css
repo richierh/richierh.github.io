@@ -719,3 +719,19 @@ footer{
     }
 
 }
+
+
+.tech-stack{
+    display:flex;
+    flex-wrap:wrap;
+    gap:15px;
+    justify-content:center;
+}
+
+.tech-stack span{
+    padding:12px 25px;
+    background:#7C3AED;
+    color:#fff;
+    border-radius:999px;
+    font-weight:600;
+}
